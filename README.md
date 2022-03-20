@@ -1,2 +1,2 @@
 # uxe-wartek
-UXE Engineer Wartek
+UX Engineer Wartek
