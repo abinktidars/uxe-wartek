@@ -1,7 +1,8 @@
 export default {
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  // Global page headers: https://go.nuxtjs.dev/config-head 
+  target: 'static',
   head: {
-    title: 'uxe-wartek',
+    title: 'Wartek Design System',
     htmlAttrs: {
       lang: 'en'
     },

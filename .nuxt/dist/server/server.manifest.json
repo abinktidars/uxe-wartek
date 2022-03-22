@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/bottomsheet.js": "components/bottomsheet.js",
+    "components/content.js": "components/content.js",
+    "components/header.js": "components/header.js",
+    "components/sidebar.js": "components/sidebar.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/bottomsheet.js": "components/bottomsheet.js.map",
+    "components/content.js": "components/content.js.map",
+    "components/header.js": "components/header.js.map",
+    "components/sidebar.js": "components/sidebar.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
